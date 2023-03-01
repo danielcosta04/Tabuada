@@ -1,0 +1,21 @@
+body{
+    background: blue;
+    font: normal 15pt arial;
+}
+header{
+    color: yellow;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgb(red, green, blue);
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style:oblique;
+}
